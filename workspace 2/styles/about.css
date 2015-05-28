@@ -1,0 +1,28 @@
+body{
+    background-image: url(../images/soundwaves.gif);
+    background-size:70%;
+}
+    body{
+        color:#00FFFF
+;
+    }
+h1 {
+    background-color:black;
+    text-decoration: underline;
+    text-align:center;
+}
+p{
+    background-color:black;
+    text-size:990%;
+    text-align:center;
+     margin-left: auto;
+     margin-right: auto;
+     margin-top: 25px;
+     display: block;
+     margin-top: 50px;
+     font-size:30px;
+}
+img{
+    margin-left: auto;
+    margin-right: auto;
+}

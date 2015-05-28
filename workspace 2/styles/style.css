@@ -1,0 +1,110 @@
+img{
+    width: 70px;
+    height: 70px;
+    margin-left: -20px;
+    margin-top: -20px;
+}
+#background {
+    background: #6fc5ce url("../images/background.png") ;
+    width: 6500px; height: 600px;
+    background-repeat: repeat-x;
+    background-position: bottom;
+    position:absolute;
+    left:0px;
+}
+#bgwrapper {
+    width:800px; height: 600px;
+    position:relative; overflow: hidden; 
+}
+#note {
+    height:43px;
+    width: 40px;
+    position: absolute; 
+    z-index:2; 
+    left: 200px;
+    top: 40%;
+    overflow: hidden;
+}
+#blk1 {
+    height: 170px;
+    width: 100px;
+    position: absolute; 
+    z-index:2;
+    bottom: 50px;
+    left: 400px;
+}
+#blk2 {
+    height: 170px;
+    width: 100px;
+    position: absolute; 
+    z-index:2;
+    top: 0px;
+    left: 400px;
+}
+#blk3 {
+     height: 170px;
+    width: 100px;
+    position: absolute; 
+    z-index:2; 
+    top: 0px;
+    left: 850px;
+}#blk4 {
+     height: 170px;
+    width: 100px;
+    position: absolute; 
+    z-index:2; 
+    bottom: 0px;
+    left: 1300px;
+}#blk5 {
+     height: 170px;
+    width: 100px;
+    position: absolute; 
+    z-index:2;
+    top: 0px;
+    left: 1900px;
+}#blk6 {
+     height: 170px;
+    width: 100px;
+    position: absolute; 
+    z-index:2; 
+    bottom: 0px;
+    left: 2500px;
+}#blk7 {
+     height: 170px;
+    width: 100px;
+    position: absolute; 
+    z-index:2;
+    top: 0px;
+    left: 2900px;
+}#blk8 {
+     height: 170px;
+    width: 100px;
+    position: absolute; 
+    z-index:2;
+    bottom: 0px;
+    left: 3400px;
+}
+#blk9 {
+     height: 170px;
+    width: 100px;
+    position: absolute; 
+    z-index:2;
+    top: 0px;
+    left: 3800px;
+}
+#blk10 {
+     height: 170px;
+    width: 100px;
+    position: absolute; 
+    z-index:2;
+    bottom: 0px;
+    left: 4000px;
+}
+button {
+    z-index: 10000;
+    
+}
+.blk {
+    background: #6fc5ce url("../images/block.png") ;
+    background-size: 100px;
+}
